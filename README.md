@@ -1,4 +1,4 @@
-# HTTP-SWISS-CHEESE
+# HTTP-SWISS-CHEESE inc.
 
 Members of this team are:
 
